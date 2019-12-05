@@ -1,7 +1,8 @@
 # newsBoard
-A news site the demonstrate the use of HTML, CSS
+A news site that demonstrates the use of HTML, CSS
 
 **Concepts**
 
  - Grid
  - Root
+ - Responsiveness
